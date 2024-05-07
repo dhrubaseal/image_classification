@@ -60,7 +60,7 @@ target/
 .env
 
 # Virtual Environment
-.image_classification
+.venv
 
 # Database
 *.db
